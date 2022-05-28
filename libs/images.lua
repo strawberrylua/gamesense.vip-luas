@@ -5,7 +5,7 @@ local M = {}
 --
 
 local ffi = require "ffi"
-local csgo_weapons = require "gamesense/csgo_weapons"
+local csgo_weapons = require "vip/csgo_weapons"
 
 local string_gsub = string.gsub
 local math_floor = math.floor
