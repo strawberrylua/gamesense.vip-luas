@@ -1,3 +1,8 @@
+------------------------------------------------------------------
+--								--
+--	https://gamesense.vip/forums/viewtopic.php?id=1043	--
+--								--
+------------------------------------------------------------------
 local _UnhandledEvents = panorama.loadstring([[
     let RegisteredEvents = {};
     let EventQueue = [];
